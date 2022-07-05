@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    display: flex;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -18,13 +17,13 @@ body {
 }
 
 .head-part h1 {
-    font-size: 70px;
+    font-size: 65px;
 }
 
 .donate-now {
     text-decoration: none;
     color: white;
-    background-color: tomato;
+    background-color: rgb(255, 26, 83);
     padding: 15px 30px;
     border-radius: 5px;
 
