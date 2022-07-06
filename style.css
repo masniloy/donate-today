@@ -100,24 +100,13 @@ body {
     background-color: rgba(0, 0, 255, 0.14);
 }
 
-
-.extra iframe {
-    margin-left: 280px;
-    align-items: center;
-    width: 960px;
-    height: 580px;
+.extra {
+    text-align: center;
 }
 
 .extra h1 {
-    margin-left: 280px;
     font-size: 35px;
 }
-
-.extra p {
-    margin-left: 280px;
-}
-
-
 
 .updates {
     text-align: center;
