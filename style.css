@@ -136,3 +136,45 @@ footer h1 {
 #lives {
     margin-left: 200px;
 }
+
+.updates {
+    text-align: center;
+}
+
+.updates h1 {
+    font-size: 40px;
+}
+
+.updates div {
+    text-align: center;
+    background-color: rgba(233, 150, 122, 0.368);
+    width: 800px;
+    height: 110px;
+    margin: 10px;
+    padding-top: 75px;
+    margin-left: 370px;
+    margin-bottom: 150px;
+}
+
+.updates div input {
+    width: 320px;
+    height: 44px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.326);
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+
+.updates div button {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 26, 83);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: -5px;
+    border: none;
+    width: 120px;
+    height: 45px;
+
+}
