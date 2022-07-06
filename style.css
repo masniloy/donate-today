@@ -101,12 +101,19 @@ body {
 }
 
 .extra {
-    text-align: center;
+    margin-left: 280px;
+}
+
+.extra iframe {
+    align-items: center;
+    width: 1000px;
+    height: 580px;
 }
 
 .extra h1 {
     font-size: 35px;
 }
+
 
 .updates {
     text-align: center;
