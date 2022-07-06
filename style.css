@@ -101,33 +101,23 @@ body {
 }
 
 
-.extra {
-    display: flex;
+.extra iframe {
+    margin-left: 280px;
+    align-items: center;
+    width: 960px;
+    height: 580px;
 }
 
-.extra div {
-    width: 30%;
-    height: 600px;
-    margin: 50px;
-    margin-left: 100PX;
-    border-radius: 5px;
-    padding: 10px;
-    text-align: center;
+.extra h1 {
+    margin-left: 280px;
+    font-size: 35px;
 }
 
-.extra div img {
-    width: 100%;
-    border-radius: 5px;
+.extra p {
+    margin-left: 280px;
 }
 
-#lives {
-    margin-left: 200px;
-    background-color: rgba(0, 255, 255, 0.155);
-}
 
-#need {
-    background-color: rgba(165, 42, 42, 0.153);
-}
 
 .updates {
     text-align: center;
