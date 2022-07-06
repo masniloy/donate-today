@@ -64,9 +64,52 @@ body {
 
 .donate-plan {
     text-align: center;
+    align-content: center;
     margin-top: 130px;
 }
 
 .donate-plan h1 {
     font-size: 40px;
+}
+
+.donate-plan-list div {
+    text-align: left;
+    width: 18%;
+    height: 230px;
+    background-color: chocolate;
+    margin-left: 25px;
+    padding: 30px;
+    padding-top: 60px;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.donate-plan-list {
+    display: flex;
+}
+
+#food {
+    background-color: rgba(0, 255, 255, 0.141);
+    margin-left: 230px;
+}
+
+#shelter {
+    background-color: rgba(222, 184, 135, 0.344);
+}
+
+#education {
+    background-color: rgba(165, 42, 42, 0.155);
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    margin: 0;
+    color: white;
+}
+
+footer h1 {
+    color: rgb(255, 26, 83);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
