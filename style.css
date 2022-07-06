@@ -97,21 +97,9 @@ body {
 }
 
 #education {
-    background-color: rgba(165, 42, 42, 0.155);
+    background-color: rgba(0, 0, 255, 0.14);
 }
 
-footer {
-    text-align: center;
-    padding: 30px;
-    background-color: black;
-    margin: 0;
-    color: white;
-}
-
-footer h1 {
-    color: rgb(255, 26, 83);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
 
 .extra {
     display: flex;
@@ -122,7 +110,6 @@ footer h1 {
     height: 600px;
     margin: 50px;
     margin-left: 100PX;
-    background-color: rgba(0, 255, 255, 0.316);
     border-radius: 5px;
     padding: 10px;
     text-align: center;
@@ -135,6 +122,11 @@ footer h1 {
 
 #lives {
     margin-left: 200px;
+    background-color: rgba(0, 255, 255, 0.155);
+}
+
+#need {
+    background-color: rgba(165, 42, 42, 0.153);
 }
 
 .updates {
@@ -177,4 +169,17 @@ footer h1 {
     width: 120px;
     height: 45px;
 
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    margin: 0;
+    color: white;
+}
+
+footer h1 {
+    color: rgb(255, 26, 83);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
