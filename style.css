@@ -26,7 +26,6 @@ body {
     background-color: rgb(255, 26, 83);
     padding: 12px 30px;
     border-radius: 5px;
-
 }
 
 .donate-today {
@@ -112,4 +111,28 @@ footer {
 footer h1 {
     color: rgb(255, 26, 83);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.extra {
+    display: flex;
+}
+
+.extra div {
+    width: 30%;
+    height: 600px;
+    margin: 50px;
+    margin-left: 100PX;
+    background-color: rgba(0, 255, 255, 0.316);
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.extra div img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#lives {
+    margin-left: 200px;
 }
